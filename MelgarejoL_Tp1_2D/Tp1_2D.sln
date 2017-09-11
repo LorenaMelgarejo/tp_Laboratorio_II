@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcu", "Tp1_2D\Calcu.csproj", "{815D6E41-907E-40BF-B176-C3539D38EB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{DA77FA90-90A1-436D-8D67-C0485940B6DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815D6E41-907E-40BF-B176-C3539D38EB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815D6E41-907E-40BF-B176-C3539D38EB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815D6E41-907E-40BF-B176-C3539D38EB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815D6E41-907E-40BF-B176-C3539D38EB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA77FA90-90A1-436D-8D67-C0485940B6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA77FA90-90A1-436D-8D67-C0485940B6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA77FA90-90A1-436D-8D67-C0485940B6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA77FA90-90A1-436D-8D67-C0485940B6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
